@@ -1,0 +1,3 @@
+[submodule "python-pinyin"]
+	path = python-pinyin
+	url = git@github.com:jamessa/python-pinyin.git
